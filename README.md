@@ -30,6 +30,18 @@ Anadol turns large datasets into flowing, room-scale visual installations. We sa
 *Refik Anadol's data sculptures, where machine-learning outputs become immersive visual environments.*
 
 
+## part2 Mechanics
+
+### 1. User input - Audio
+**owner:Yujing Zhang**
+
+This audio interaction mechanism is inspired by Vincent van Gogh’s The Starry Night. The system uses a microphone to capture the user’s voice and transform sound volume into visual movement. When the user speaks louder, the swirling patterns in the sky rotate faster and the scene becomes more dynamic. When the environment becomes quiet, the movement gradually slows down and returns to a calm state.
+
+The visual design uses particles, dots, and flowing curves to recreate the emotional brushstroke style of The Starry Night. Users can interact with the artwork by speaking, clapping, or singing, allowing their sound to directly influence the digital sky.
+
+### 2. User input - 
+### 3. User input -
+
 ### 4. User input — Vortex disturbance
 **Owner: Danlin Liu**
 
@@ -40,3 +52,6 @@ When you drag the mouse across the canvas, a new vortex centre appears at the cu
 If you press and hold the mouse without moving, something different happens. Energy builds up at that spot, and when you release, it bursts outward in a ring of light, the same way Van Gogh's stars seem to radiate brightness into the surrounding sky.
 
 This ties back to the project vision because the whole point is to make the painting something you can reach into rather than just look at. The viewer is not watching the night sky. They are pushing it around.
+
+## part 3  Putting It Together（conclusion）
+
